@@ -1,0 +1,21 @@
+Data Types
+Type of Data which can be stored in a variable
+
+Categories of Data Types
+    - Primitive Data Types
+    - Non-Primitive Data Types
+        - Object
+        - Special
+        - Advance
+        - Function
+
+1. Primitive Data Types
+    - Number :: number
+    - String :: string
+    - Boolean :: boolean
+    - Undefined :: undefined
+    - Null :: null
+    - BigInt :: bigint
+    - Symbol :: symbol
+
+2. Non-Primitive Data Types 
