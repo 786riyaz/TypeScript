@@ -1,0 +1,2 @@
+tsc index.js --watch
+npx tsc index.js --watch

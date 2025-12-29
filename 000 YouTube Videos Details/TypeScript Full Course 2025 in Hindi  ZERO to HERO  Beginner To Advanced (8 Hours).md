@@ -24,7 +24,7 @@ Timestamp:
 02:09:38 - Type Inference & Type Assertions
 02:13:42 - Union types
 02:16:40 - Type Narrowing
-02:19:10 - Interfaces & Type Aliases (& Intersection types
+02:19:10 - Interfaces & Type Aliases & Intersection types
 02:49:49 - Optional fields
 02:52:30 - Functions
 03:19:30 - Practice problems (4)
